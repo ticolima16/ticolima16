@@ -1,6 +1,6 @@
 # 👋 Olá! Eu sou o Tiago Barboza!
 
-🎓 Estudante apaixonado por tecnologia e desenvolvimento de software. Atualmente, estou focado no aprendizado de **Java** e em diversas outras tecnologias do ecossistema de desenvolvimento web.
+🎓Atualmente, estou focado no aprendizado de **Java** e em diversas outras tecnologias do ecossistema de desenvolvimento web.
 
 ## 🚀 Tecnologias que estou aprendendo:
 - Java ☕
