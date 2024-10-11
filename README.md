@@ -1,16 +1,19 @@
-## Hi there 👋
+# 👋 Olá! Eu sou o Tiago Barboza!
 
-<!--
-**ticolima16/ticolima16** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Estudante apaixonado por tecnologia e desenvolvimento de software. Atualmente, estou focado no aprendizado de **Java** e em diversas outras tecnologias do ecossistema de desenvolvimento web.
 
-Here are some ideas to get you started:
+## 🚀 Tecnologias que estou aprendendo:
+- Java ☕
+- Spring Boot 🌱
+- Banco de Dados (SQL, NoSQL) 💾
+- HTML & CSS 🎨
+- JavaScript 📜
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 💡 Projetos em andamento:
+- Aplicações web com Spring Boot e Banco de Dados
+
+## 🌱 Sempre buscando aprender mais sobre:
+- Desenvolvimento Backend e Frontend
+- Boas práticas de programação
+- Integração de APIs
+
